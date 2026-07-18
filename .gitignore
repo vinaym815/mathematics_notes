@@ -1,0 +1,8 @@
+# Xournal++ temporary and backup files
+*.bak
+*.autosave.xopp
+*~
+
+# LaTeX log files (if using the LaTeX tool)
+*.log
+*.aux
