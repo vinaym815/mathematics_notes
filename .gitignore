@@ -6,3 +6,6 @@
 # LaTeX log files (if using the LaTeX tool)
 *.log
 *.aux
+
+# Rough draft file
+rough.xopp
